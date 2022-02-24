@@ -1,0 +1,5 @@
+FROM_USER,TO_USER,OTHER_USER,SENT_VS_RECEIVED,DATE_UTC,THREAD_ID,KIND,CHAR_COUNT,WORD_COUNT,SUBJECT,BODY
+[deleted],YourRedditName,[deleted],received,2022-02-13 10:44:56,t4_1ajklys,t4,29,5,re: DPP - thread subject,"message body here.. blah blah"
+AwesomePartner1,YourRedditName,AwesomePartner1,received,2022-02-13 08:08:03,t4_1ajklys,t4,776,144,re: DPP - thread 2,"message body here.. blah blah"
+YourRedditName,AwesomePartner1,AwesomePartner1,sent,2022-02-13 08:08:03,t4_1a8x60c,t4,776,144,DPP - thread 3,"message body here.. blah blah"
+[deleted],YourRedditName,[deleted],received,2022-02-10 18:35:45,t4_1acfy4s,t4,3055,566,re: DPP - thread 4,"message body here.. blah blah"
